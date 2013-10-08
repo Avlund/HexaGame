@@ -1,0 +1,10 @@
+d:
+b:.DS_Store
+a:click.mp3
+d:data
+b:data/.DS_Store
+t:data/Roboto-Thin-128.fnt
+i:data/roboto.png
+t:pack.txt
+i:textureatlas.png
+i:textureatlas1.png
