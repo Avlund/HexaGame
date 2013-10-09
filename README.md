@@ -1,4 +1,4 @@
 HexaGame
 ========
 
-Puzzle game
+Puzzle game written using ligdx
